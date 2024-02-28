@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Danidev24
+- 👀 I’m interested in learning every day about development, I love developing computer solutions
+- 🌱 I'm currently learning backend development with java and spring boot
+- 💞️ I'm looking to collaborate on projects that help me learn more and apply my knowledge about this beautiful topic, the world of development.
+- 📫 How to reach me instagram @danidev1
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
